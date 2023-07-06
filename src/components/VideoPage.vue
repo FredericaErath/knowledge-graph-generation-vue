@@ -83,8 +83,8 @@ export default {
     });
     console.log(this.items);
     var gitalk = new Gitalk({
-      clientID: "b8ecd6d58ebd58c28973",
-      clientSecret: "edf0c11e2cacff8b970b451fc015ddd96f87554a",
+      clientID: "",
+      clientSecret: "",
       repo: "gitalk-demo",
       owner: "FredericaErath",
       admin: ["FredericaErath"],
